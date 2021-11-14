@@ -1,0 +1,3 @@
+= Arendal Design Notes
+
+Just some random content to bootstrap the site.
