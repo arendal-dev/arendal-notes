@@ -1,3 +1,9 @@
+:nofooter:
+:docinfo: shared-footer
+
 = Arendal Design Notes
 
-Just some random content to bootstrap the site.
+This site contains some notes about the design of the Arendal Platform.
+These notes will be used to populate the specification and the tutorial
+in the future.
+
